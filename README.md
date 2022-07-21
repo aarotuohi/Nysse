@@ -1,2 +1,2 @@
 # Nysse
-Joukkoliikenne api
+Joukkoliikenne käyttöliittymä
